@@ -7,3 +7,5 @@
 > `` make `` Vous permet de lancer l'application.
 
 > `` make tests `` Vous permet de lancer un test à chaque fois que vous clique sur le bouton valide.
+
+![UPMC](logo_upmc.png)
